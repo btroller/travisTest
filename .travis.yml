@@ -3,4 +3,6 @@ compiler:
   - clang
   - gcc
 
-install: make
+install: true
+
+script: make
