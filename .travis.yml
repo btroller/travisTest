@@ -5,4 +5,4 @@ compiler:
 
 install: true
 
-script: make
+script: ./test.sh
